@@ -1,0 +1,1 @@
+("7.5" racket ("c773ac548423e3b4258b28f4b9d1467b81fe89f5" . "91d651205078172a39a919f9aceb57464bdc9c29") (collects #"jsonic" #"parser.rkt") (collects #"jsonic" #"tokenizer.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
